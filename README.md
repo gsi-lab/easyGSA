@@ -3,11 +3,11 @@ Efficient global sensitivity analysis using machine learning models
 
 
 
-A MATLAB function developed for performing efficient variance decomposition-based global sensitivity analysis in the following paper.
+A MATLAB tool developed for performing efficient variance decomposition-based global sensitivity analysis in the following paper.
 
 [**Meta-modeling based efficient global sensitivity analysis for wastewater treatment plants – An application to the BSM2 model**](https://doi.org/10.1016/j.compchemeng.2019.05.015)  
 
-Please cite this software package as
+To cite easyGSA in publications, please use
 ```
 @article{easyGSA,
   author  = {Resul Al and Chitta Ranjan Behera and Alexandr Zubov and Krist V. Gernaey and G\"urkan Sin},
