@@ -20,7 +20,7 @@ To cite easyGSA in publications, please use
 ```
 
 ### Installing easyGSA
-Placing the file easyGSA.p into your own working directory will suffice.
+Placing the single file (easyGSA.p) into your own working directory will suffice to make use of the full functionality of the tool.
 
 ### Authors
 * **[Resul Al](https://www.linkedin.com/in/resulal/)** ([resulal](https://github.com/resulal)) - Technical University of Denmark
