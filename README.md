@@ -7,7 +7,7 @@ A MATLAB-based tool implementing the framework developed for performing efficien
 
 [**Meta-modeling based efficient global sensitivity analysis for wastewater treatment plants – An application to the BSM2 model**](https://doi.org/10.1016/j.compchemeng.2019.05.015)  
 
-To cite easyGSA in publications, please use
+If you benefit from this work and would like to cite easyGSA in publications, please use
 ```
 @article{easyGSA,
   author  = {Resul Al and Chitta Ranjan Behera and Alexandr Zubov and Krist V. Gernaey and G\"urkan Sin},
