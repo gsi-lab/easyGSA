@@ -34,5 +34,5 @@ The easyGSA tool is released under the MIT License.
 ### Acknowledgements
 This work has received funding from the European Union's Horizon 2020 research and innovation programme under the Marie Skłodowska-Curie grant agreement no.675251.
 
-
-![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/Slides_easyGSA.pdf "easyGSA")
+### Documentation
+**[See examples.](https://github.com/resulal/easyGSA/blob/master/docs/Slides_easyGSA.pdf)**
