@@ -1,4 +1,4 @@
-![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/easyGSA.PNG "easyGSA")
+![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/easyGSA.png "easyGSA")
 
 
 # easyGSA
