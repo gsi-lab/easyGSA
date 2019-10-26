@@ -2,8 +2,7 @@
 
 
 # easyGSA
-Efficient global sensitivity analysis using machine learning models
-
+Efficient global sensitivity analysis using mechanistic or machine learning models.
 
 
 A MATLAB-based tool implementing the framework developed for performing efficient variance decomposition-based Sobol sensitivity analysis in the following paper.
