@@ -7,7 +7,8 @@ Data.X = X'; % rows are observations.
 Data.Y = Y'; % columns are outputs.
 
 % call the easyGSA tool with the following arguments.
-[SRCs,results] = easyGSA('UserData',Data)
+[SRCs,results] = easyGSA('UserData',Data,...
+                         'Method','SRC')
 
 % Visualize the outputs in a barplot
 H = [SRCs]; c = categorical(strseq('x',1:8));
