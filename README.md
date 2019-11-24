@@ -2,7 +2,7 @@
 
 
 # easyGSA
-[![View easyGSA on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/73057-easygsa)
+[![View easyGSA on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/73057-easygsa) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Efficient global sensitivity analysis using mechanistic or machine learning models.
 
