@@ -37,5 +37,4 @@ This work has received funding from the European Union's Horizon 2020 research a
 ### Documentation
 **[View slides showing examples](https://github.com/resulal/easyGSA/blob/master/docs/Slides_easyGSA.pdf)**
 
-![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/coverslide.PNG "easyGSA")
 [![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/coverslide.PNG)](https://github.com/resulal/easyGSA/blob/master/docs/Slides_easyGSA.pdf)
