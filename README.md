@@ -1,10 +1,10 @@
-![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/easyGSA.PNG "easyGSA")
+![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/easyGSA.png "easyGSA")
 
 
 # easyGSA
-Efficient global sensitivity analysis using machine learning models
+[![View easyGSA on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/73057-easygsa) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-
+Efficient global sensitivity analysis using mechanistic or machine learning models.
 
 A MATLAB-based tool implementing the framework developed for performing efficient variance decomposition-based Sobol sensitivity analysis in the following paper.
 
@@ -25,7 +25,7 @@ If you benefit from this work and would like to cite easyGSA in publications, pl
 ### Installing easyGSA
 Placing the single file (easyGSA.p) into your own working directory will suffice to make use of the full functionality of the tool.
 
-### Authors
+### Developers
 * **[Resul Al](https://www.linkedin.com/in/resulal/)** ([resulal](https://github.com/resulal)) - Technical University of Denmark
 
 ### License
@@ -36,3 +36,5 @@ This work has received funding from the European Union's Horizon 2020 research a
 
 ### Documentation
 **[View slides showing examples](https://github.com/resulal/easyGSA/blob/master/docs/Slides_easyGSA.pdf)**
+
+[![easyGSA](https://github.com/resulal/easyGSA/blob/master/docs/coverslide.PNG)](https://github.com/resulal/easyGSA/blob/master/docs/Slides_easyGSA.pdf)
