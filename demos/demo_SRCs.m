@@ -1,5 +1,5 @@
 %% Example: Standardized regression coefficients using easyGSA
-% By Resul Al @DTU, October 27, 2019
+% By Resul Al @DTU
 
 % Load a built-in dataset for the analysis
 [X,Y] = chemical_dataset; 
@@ -10,7 +10,7 @@ Data.Y = Y'; % columns are outputs.
 [SRCs,results] = easyGSA('UserData',Data,...
                          'Method','SRC')
 
-% Visualize the outputs in a barplot
+% Visualize the SRCs in a barplot
 H = [SRCs]; c = categorical(strseq('x',1:8));
 bar(c,H); 
 ylabel('Standardized regression coefficients'); xlabel('Input Parameters');

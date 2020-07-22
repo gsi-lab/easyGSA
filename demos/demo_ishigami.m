@@ -48,7 +48,3 @@ H = [mcSTi,gprSTi,annSTi]; c = categorical(pars);
 bar(c,H); legend({'MonteCarlo','GPR','ANN'});
 ylabel('Total Order Sobol indices'); xlabel('Input Parameters');
 print('STi_ishigami','-dpng','-r1200')
-
-
-
-

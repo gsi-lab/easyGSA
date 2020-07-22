@@ -1,4 +1,5 @@
 % Tutorial: Perform GSA on Cantilever Beam functions (multiple outputs).
+% By Resul Al @DTU
 
 Model = @cantibeam; % handle to the cantibeam.m file
 N = 2e3; % Number of MC samples

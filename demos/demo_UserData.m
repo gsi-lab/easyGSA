@@ -1,5 +1,5 @@
-
 % Inputting your own dataset to perform GPR and ANN-based GSA
+% By Resul Al @DTU
 
 % Step 1: Load your own data, eg. simulation results, etc.
 [X,Y]=chemical_dataset; X=X'; Y=Y'; % a standard MATLAB dataset
@@ -31,5 +31,3 @@ InputSpace={'Means',mean(Data.X),'Sigmas',std(Data.Y)};
 [Si,STi,results] = easyGSA('UserData',Data,...
                            'UseSurrogate','ANN',...
                            InputSpace{:})
-
-                            

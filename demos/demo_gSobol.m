@@ -1,4 +1,5 @@
 % Tutorial: Perform GSA on g-function of Sobol
+% By Resul Al @DTU
 
 f = @(x) gSobol(x);
 N = 1e6; % Number of MC samples

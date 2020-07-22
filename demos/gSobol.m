@@ -1,7 +1,7 @@
 function y = gSobol(x)
     % 5 dimensional implementation of g-function of Sobol.
+    
     a=[1:5];
-
     prod = 1;
     for j = 1:5
         xi = x(:,j);
