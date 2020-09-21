@@ -27,7 +27,7 @@ Data.Y = Y; % outputs
                        
                        
 % Change the input space to normal.
-InputSpace={'Means',mean(Data.X),'Sigmas',std(Data.Y)};
+InputSpace={'Means',mean(Data.X),'Sigmas',std(Data.X)};
 [Si,STi,results] = easyGSA('UserData',Data,...
                            'UseSurrogate','ANN',...
                            InputSpace{:})
